@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#contenedor{
+    margin: auto;
+    height: auto;
+    width: 90%;
+    background-color: red;
+}
+header{
+    width: 100%;
+}
+section{
+    margin: 3%;
+    background-color: black;
+}
+aside{
+    border-radius: 10px;
+    padding: 5%;
+    background-color:gray;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: justify; 
+    text-align: center;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: black;
+}
